@@ -1,5 +1,3 @@
-| **Projektleiter:** -
-| **Headdeveloper:** - 
 | **Projektteam:** -
 
 <br />
