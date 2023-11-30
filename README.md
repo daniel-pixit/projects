@@ -24,5 +24,4 @@
 ### Probleme
 |  |  |
 | :---: | --- |
-| [ ] | Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. |
-| [ ] | At vero eos et accusam et justo duo dolores et ea rebum. |
+| [ ] | ------ |
