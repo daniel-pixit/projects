@@ -23,3 +23,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 |  |  |
 | :---: | --- |
 | [ x ] | Design |
+
+<br />
+<br />
+### Portfolio
+![alt text](https://github.com/daniel-pixit/portfolio/fitness.png?raw=true)
