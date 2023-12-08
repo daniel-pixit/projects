@@ -1,4 +1,4 @@
-| ** 🚀 Willkommen in meiner kreativen Welt der digitalen Innovation! ** 
+| ** 🚀 Willkommen in meiner kreativen Welt der digitalen Innovation! 🚀 ** 
 |
 <br />
 
