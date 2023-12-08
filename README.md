@@ -26,5 +26,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br />
 <br />
 
-![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/Fitness.png)
+![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/fitness.png)
 
