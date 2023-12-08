@@ -7,7 +7,11 @@ Mit einem Auge für ansprechende Benutzeroberflächen gestalte ich einzigartige 
 
 Als Webentwickler habe ich umfassende Erfahrung in der Umsetzung fortschrittlicher Front- und Backend-Lösungen. Doch was meine Arbeit wirklich auszeichnet, ist meine Leidenschaft für künstliche Intelligenz. Mit einem soliden Hintergrund in AI bringe ich innovative Konzepte in meine Projekte ein, sei es durch intelligente Datenanalyse, personalisierte Benutzererlebnisse oder die Integration von maschinellem Lernen, um optimale Funktionen zu gewährleisten.<br /><br />
 
-Wenn du nach einem kreativen Denker suchst, der nicht nur Design und Entwicklung beherrscht, sondern auch die transformative Kraft der künstlichen Intelligenz versteht, bin ich der richtige Partner für dein nächstes Projekt. Lass uns gemeinsam die Grenzen des Möglichen überschreiten und eine digitale Zukunft gestalten!
+Wenn du nach einem kreativen Denker suchst, der nicht nur Design und Entwicklung beherrscht, sondern auch die transformative Kraft der künstlichen Intelligenz versteht, bin ich der richtige Partner für dein nächstes Projekt. 
+<br />
+<br />
+
+Lass uns gemeinsam die Grenzen des Möglichen überschreiten und eine digitale Zukunft gestalten!
 <br />
 
 <hr />
