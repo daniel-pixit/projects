@@ -19,12 +19,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br />
 <br />
 
-![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/Fitness.png)
-
-<br />
-<br />
-
-### Skills
+### Technologie
 |  |  |
 | :---: | --- |
 | [ x ] | Design |
+
+<br />
+<br />
+
+![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/Fitness.png)
+
