@@ -13,9 +13,8 @@ Wenn du nach einem kreativen Denker suchst, der nicht nur Design und Entwicklung
 
 Lass uns gemeinsam die Grenzen des Möglichen überschreiten und eine digitale Zukunft gestalten!
 <br />
-
+<br />
 <hr />
-
 <br />
 
 ### Fitnesstemplate
