@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br />
 <br />
 
-<hr>
+<hr />
 
 <br />
 <br />
