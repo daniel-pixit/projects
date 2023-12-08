@@ -3,10 +3,6 @@
 
 <br />
 
-:rocket: **Version:** Beta 0.1
-
-<br />
-
 Als leidenschaftlicher UI-Designer und erfahrener Webentwickler bringe ich nicht nur ästhetisches Design in meine Projekte, sondern auch eine tiefe Verbindung zur Welt der künstlichen Intelligenz.<br /><br />
 
 🎨 Mit einem Auge für ansprechende Benutzeroberflächen gestalte ich einzigartige Nutzererlebnisse, die nicht nur visuell beeindrucken, sondern auch nahtlos mit leistungsstarken Webanwendungen verschmelzen. Mein Portfolio erstreckt sich über eine Vielzahl von Branchen, von E-Commerce bis hin zu Unternehmenslösungen, und ich bin darauf spezialisiert, maßgeschneiderte Designs zu schaffen, die die Identität meiner Kunden widerspiegeln.<br /><br />
