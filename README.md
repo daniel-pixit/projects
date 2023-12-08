@@ -22,6 +22,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ### Skills
 |  |  |
 | :---: | --- |
-| [ ] | Design |
-| [ ] | HTML |
-| [ ] | CSS |
+| [ x ] | Design |
