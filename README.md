@@ -1,5 +1,4 @@
 ### 🚀 Willkommen in meiner kreativen Welt der digitalen Innovation! 🚀 
-|
 <br />
 
 Als leidenschaftlicher UI-Designer und erfahrener Webentwickler bringe ich nicht nur ästhetisches Design in meine Projekte, sondern auch eine tiefe Verbindung zur Welt der künstlichen Intelligenz.<br /><br />
