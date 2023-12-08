@@ -28,4 +28,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br />
 ### Portfolio
 
-![alt](https://github.com/daniel-pixit/portfolio/fitness.png?raw=true)
+![alt]([https://github.com/daniel-pixit/portfolio/fitness.png?raw=true](https://github.com/daniel-pixit/portfolio/blob/main/Fitness.png)https://github.com/daniel-pixit/portfolio/blob/main/Fitness.png)
