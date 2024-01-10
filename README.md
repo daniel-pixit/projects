@@ -1,4 +1,4 @@
-![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/gitfolio-1.png)
+![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/gitfolio-1-1.png)
 
 <br />
 <br />
