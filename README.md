@@ -6,4 +6,4 @@
 <br><br>
 ![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/portfolio2.png)
 <br><br>
-![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/Fitness-1.png)
+<!-- ![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/Fitness-1.png)-->
