@@ -5,6 +5,5 @@
 ![login](https://github.com/daniel-pixit/portfolio/blob/main/login.png)
 <br><br>
 ![Portfolio](https://github.com/daniel-pixit/portfolio/blob/main/portfolio2.png)
-<!-- ![Beispielbild](https://github.com/daniel-pixit/portfolio/blob/main/Fitness-1.png)-->
 <br><br>
 ![watch](https://github.com/daniel-pixit/portfolio/blob/main/watch.png)
