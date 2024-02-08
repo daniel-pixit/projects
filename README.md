@@ -2,6 +2,8 @@
 <br><br>
 ![shop](https://github.com/daniel-pixit/portfolio/blob/main/shop1.png)
 <br><br>
+![flow](https://github.com/daniel-pixit/portfolio/blob/main/flow.gif)
+<br><br>
 ![login](https://github.com/daniel-pixit/portfolio/blob/main/login.png)
 <br><br>
 ![Portfolio](https://github.com/daniel-pixit/portfolio/blob/main/portfolio2.png)
